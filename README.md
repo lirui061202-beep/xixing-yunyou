@@ -1,7 +1,9 @@
 # 西行云游
 
+![西行云游](cover.jpg)
+
 一个西游题材的挂机回合制网页小游戏（试玩版）。用手机打开链接即可，竖屏体验最佳。
 
-试玩地址：https://lirui061202-beep.github.io/xixing-yunyou/
+**👉 [点这里开始玩](https://lirui061202-beep.github.io/xixing-yunyou/)**
 
 存档保存在浏览器本地；清除浏览器数据会丢档。
